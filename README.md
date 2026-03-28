@@ -22,7 +22,7 @@ It includes data for Stocks, Treasury Bills (T.Bills), and Treasury Bonds (T.Bon
 ## Purpose
 - Analyze long-term investment trends
 - Compare risk vs return across asset classes
-- Useful for financial modeling and forecasting
+
 
 ## Use Cases
 - Data analysis projects (Pandas, Power BI)
