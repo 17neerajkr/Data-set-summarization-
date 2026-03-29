@@ -11,7 +11,6 @@ It includes data for Stocks, Treasury Bills (T.Bills), and Treasury Bonds (T.Bon
 ## Columns Description
 - Year: Represents the time period of investment
 - Stocks: Annual return of stock market investments
-- T.Bills: Short-term government securities returns
 - T.Bonds: Long-term government bond returns
 
 ## Key Insights
